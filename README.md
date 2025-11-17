@@ -30,13 +30,6 @@ Applied remediation by upgrading risky libraries, removing deprecated packages, 
 
 Reviewed OWASP Top 10 categories present in both apps (XSS, IDOR, Broken Auth, Insecure Deserialization, etc.).
 
-📁 Repository Layout
-Cyber-Demo/
-├── nodegoat-analysis/
-├── juice-shop-analysis/
-├── snyk-results/
-├── remediation/
-└── README.md
 
 🚀 Running the Vulnerable Apps
 Juice Shop
